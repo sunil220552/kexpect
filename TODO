@@ -1,0 +1,9 @@
+* Create a UT setup
+* Add UTs 
+* Create setup and tear-down for examples
+* Add readme for examples
+* Enhance project readme
+* setup.py:classifiers
+* Spell check
+* pylint score > 9
+* Review TODO comments
